@@ -12,22 +12,26 @@
 ---
 
 ## 2. Dades personals
-**Nom: Zakaria Hassan Bouraddah**
-**Ubicació: Barcelona, Catalunya**
-**Email: zakariahassanbouraddah@elpuig.xeill.cat**
+-**Nom: Zakaria Hassan Bouraddah**
+
+-**Ubicació: Barcelona, Catalunya**
+
+-**Email: zakariahassanbouraddah@elpuig.xeill.cat**
 
 ---
  
  ## 3. Aficions i interessos
-**-Videojocs**
-**-Programar**
-**-Fútbol**
+-**Videojocs**
+
+-**Programar**
+
+-**Fútbol**
 
  ---
 
 
   ## 4. Habiitats
-  **Tècniques: LUA**
+ - **Tècniques: LUA**
   
   ---
 
